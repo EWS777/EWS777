@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![linkedin]([https://img.shields.io](https://www.linkedin.com/in/yehorvasylenko/)/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+
 <!--
 **EWS777/EWS777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
