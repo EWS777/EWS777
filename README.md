@@ -1,13 +1,15 @@
-## Hi there, I'm Yehor Vasylenko👋
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2NDEyNzYsIm5iZiI6MTc1MTY0MDk3NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA0VDE0NTYxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4MzNhZTE3YjM4ZDExMmNmOTU4NzNkOGFmMTE2ZTQzNDM5MjQ2NzNmZWYzN2QzY2NkOTU5OGI4ZTlhNWM2YzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zgb8uDzSBMybhvPL34LUQxEn2D2jjTHaraugTFYXtpc)
+
+<h1 align="center">Hi there, I'm Yehor Vasylenko👋</h1>
 <h3 align="center">.NET Developer</h3>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 
 - 🔭 I’m currently working on **Anonymous Chat Web Application(ChatZone)**, an ongoing Full Stack project
 - 🌱 I’m currently learning and deeping my knowledge in **DDD, SignalR and Angular**
 - 💬 Ask me about **C# and .NET**
 - 📫 How to reach me  egor.vasilenko2004@gmail.com
-
----
 
   
 ### :mailbox: Contact with me:
@@ -37,11 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-
 ---
 
-
-### 🔥 My Stats
+### 🔥 My Stats:
 <div>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EWS777&theme=default&background=FFFFFF&hide_border=false" width="488"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EWS777&layout=compact&langs_count=8&card_width=300&theme=default&bg_color=FFFFFF&hide_border=false" width="350"/>
